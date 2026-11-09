@@ -14,6 +14,9 @@ int main() {
     string arrMetode[50];
     int jumlahJadwal = 0; 
 
+    string arrPrioritas[50];
+    int jumlahPelajaran = 0;
+
     do {
         cout << "\n===== STUDY TRACKER =====" << endl;
         cout << "1. Lihat Jadwal Belajar" << endl;
